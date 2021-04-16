@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSCI370-Lab_06</string>
+    <string name="listBtnTxt">List All</string>
+    <string name="submitBtnTxt">Submit</string>
+</resources>
